@@ -28,4 +28,4 @@ segment_results <- rbindlist(lapply(source_files, function(source_file){
 
 setnames(segment_results, c('test_id', 'segment_name', 'time'))
 
-write_sheet(segment_results, ss='https://docs.google.com/spreadsheets/d/1OTQfpj_nz-QSHyUl-2iwW0y2on74BK8YKJDUF03iAyk/', sheet='segment_results_R')
+write_sheet(segment_results, ss='https://docs.google.com/spreadsheets/d/1OTQfpj_nz-QSHyUl-2iwW0y2on74BK8YKJDUF03iAyk/', sheet='r_out_segment_results')
