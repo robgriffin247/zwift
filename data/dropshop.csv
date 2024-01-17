@@ -1,154 +1,154 @@
 component,make,model,type,drops,aero,climb,lvl,checked,pref_make,pref_model
-frame,ALLIED,,gravel,721000,2,3,,2024-01-10T00:00:00Z,Allied,
-frame,BMC,,road,969200,3,3,,2024-01-10T00:00:00Z,BMC,
-frame,BMC,,road,759500,2,3,,2024-01-10T00:00:00Z,BMC,
-frame,BMC,,tt,400000,4,1,,2024-01-10T00:00:00Z,BMC,
-frame,BMC,,road,344100,2,3,,2024-01-10T00:00:00Z,BMC,
-frame,BRIDGESTONE,,road,200000,2,4,,2024-01-10T00:00:00Z,Bridgestone,
-frame,CADEX,,tt,1500000,4,1,,2024-01-10T00:00:00Z,CADEX,
-frame,CANNONDALE,,road,768200,3,4,,2024-01-10T00:00:00Z,Cannondale,
-frame,CANNONDALE,,road,725100,3,3,,2024-01-10T00:00:00Z,Cannondale,
-frame,CANNONDALE,,road,270100,2,3,,2024-01-10T00:00:00Z,Cannondale,
-frame,CANNONDALE,,road,106300,2,2,,2024-01-10T00:00:00Z,Cannondale,
-frame,CANNONDALE,,road,714500,2,4,,2024-01-10T00:00:00Z,Cannondale,
-frame,CANYON,,road,1029200,3,3,,2024-01-10T00:00:00Z,Canyon,
-frame,CANYON,,gravel,750000,2,3,,2024-01-10T00:00:00Z,Canyon,
-frame,CANYON,,tt,424600,4,1,,2024-01-10T00:00:00Z,Canyon,
-frame,CANYON,,road,350700,2,4,,2024-01-10T00:00:00Z,Canyon,
-frame,CANYON,,road,322500,2,4,,2024-01-10T00:00:00Z,Canyon,
-frame,CANYON,,mtb,275000,1,1,,2024-01-10T00:00:00Z,Canyon,
-frame,CANYON,,gravel,200000,2,2,,2024-01-10T00:00:00Z,Canyon,
-frame,CANYON,,tt,1200000,4,1,,2024-01-10T00:00:00Z,Canyon,
-frame,CERVELO,,road,1481000,3,3,,2024-01-10T00:00:00Z,Cervelo,
-frame,CERVELO,,tt,1000000,4,1,,2024-01-10T00:00:00Z,Cervelo,
-frame,CERVELO,,gravel,800000,3,3,,2024-01-10T00:00:00Z,Cervelo,
-frame,CERVELO,,road,633600,2,4,,2024-01-10T00:00:00Z,Cervelo,
-frame,CERVELO,,road,415300,3,2,,2024-01-10T00:00:00Z,Cervelo,
-frame,CERVELO,,tt,920700,4,1,,2024-01-10T00:00:00Z,Cervelo,
-frame,CERVELO,,road,1481000,3,3,,2024-01-10T00:00:00Z,Cervelo,
-frame,CHAPTER2,,road,800000,3,3,,2024-01-10T00:00:00Z,Chapter2,
-frame,CHAPTER2,,road,505500,2,3,,2024-01-10T00:00:00Z,Chapter2,
-frame,CHAPTER2,,road,326400,3,3,,2024-01-10T00:00:00Z,Chapter2,
-frame,CHAPTER2,,road,199400,2,4,,2024-01-10T00:00:00Z,Chapter2,
-frame,COLNAGO,,road,800000,2,3,,2024-01-10T00:00:00Z,Colnago,
-frame,CUBE,,road,604200,2,4,,2024-01-10T00:00:00Z,Cube,
-frame,CUBE,,road,536500,2,3,,2024-01-10T00:00:00Z,Cube,
-frame,CUBE,,tt,251700,4,1,,2024-01-10T00:00:00Z,Cube,
-frame,DIAMONDBACK,,tt,950000,4,1,,2024-01-10T00:00:00Z,Diamondback,
-frame,FACTOR,,road,600000,3,3,,2024-01-10T00:00:00Z,Factor,
-frame,FELT,,tt,750000,4,1,,2024-01-10T00:00:00Z,Felt,
-frame,FELT,,road,714100,3,3,,2024-01-10T00:00:00Z,Felt,
-frame,FELT,,road,562700,3,4,,2024-01-10T00:00:00Z,Felt,
-frame,FELT,,tt,515100,4,1,,2024-01-10T00:00:00Z,Felt,
-frame,FOCUS,,road,712900,3,3,,2024-01-10T00:00:00Z,Focus,
-frame,GIANT,,road,1102900,3,3,,2024-01-10T00:00:00Z,Giant,
-frame,GIANT,,road,566100,2,3,,2024-01-10T00:00:00Z,Giant,
-frame,GIANT,,road,543100,3,3,,2024-01-10T00:00:00Z,Giant,
-frame,GIANT,,road,475000,2,3,,2024-01-10T00:00:00Z,Giant,
-frame,LAUF,,gravel,125000,2,2,,2024-01-10T00:00:00Z,Lauf,
-frame,LIV,,road,613200,3,3,,2024-01-10T00:00:00Z,Liv,
-frame,LIV,,road,511300,2,3,,2024-01-10T00:00:00Z,Liv,
-frame,LIV,,gravel,450000,2,3,,2024-01-10T00:00:00Z,Liv,
-frame,MOOTS,,road,275000,2,2,,2024-01-10T00:00:00Z,Moots,
-frame,MOSAIC,,road,250000,2,2,,2024-01-10T00:00:00Z,Mosaic,
-frame,PARLEE,,road,771800,3,3,,2024-01-10T00:00:00Z,Parlee,
-frame,PARLEE,,road,153200,3,3,,2024-01-10T00:00:00Z,Parlee,
-frame,PINARELLO,,road,1418600,3,4,,2024-01-10T00:00:00Z,Pinarello,
-frame,PINARELLO,,road,1242700,3,3,,2024-01-10T00:00:00Z,Pinarello,
-frame,PINARELLO,,road,1081900,3,3,,2024-01-10T00:00:00Z,Pinarello,
-frame,PINARELLO,,tt,627000,4,1,,2024-01-10T00:00:00Z,Pinarello,
-frame,PINARELLO,,tt,618400,4,1,,2024-01-10T00:00:00Z,Pinarello,
-frame,PINARELLO,,road,577800,3,2,,2024-01-10T00:00:00Z,Pinarello,
-frame,PINARELLO,,road,0,3,3,,2024-01-10T00:00:00Z,Pinarello,
-frame,QUINTANAROO,,tt,297400,4,1,,2024-01-10T00:00:00Z,Quintana Roo,
-frame,RIBBLE,,road,505500,3,3,,2024-01-10T00:00:00Z,Ribble,
-frame,RIDLEY,,road,950000,3,3,,2024-01-10T00:00:00Z,Ridley,
-frame,RIDLEY,,road,272500,2,3,,2024-01-10T00:00:00Z,Ridley,
-frame,SCOTT,,road,864600,3,3,,2024-01-10T00:00:00Z,Scott,
-frame,SCOTT,,mtb,750000,1,1,,2024-01-10T00:00:00Z,Scott,
-frame,SCOTT,,road,676900,3,3,,2024-01-10T00:00:00Z,Scott,
-frame,SCOTT,,tt,600000,4,1,,2024-01-10T00:00:00Z,Scott,
-frame,SCOTT,,tt,528600,4,1,,2024-01-10T00:00:00Z,Scott,
-frame,SCOTT,,road,660200,3,4,,2024-01-10T00:00:00Z,Scott,
-frame,SCOTT,,mtb,350000,1,1,,2024-01-10T00:00:00Z,Scott,
-frame,SPECIALIZED,,road,1200000,3,3,,2024-01-10T00:00:00Z,Specialized,
-frame,SPECIALIZED,,tt,1000000,4,1,,2024-01-10T00:00:00Z,Specialized,
-frame,SPECIALIZED,,road,966300,2,4,,2024-01-10T00:00:00Z,Specialized,
-frame,SPECIALIZED,,mtb,950000,1,1,,2024-01-10T00:00:00Z,Specialized,
-frame,SPECIALIZED,,tt,910600,4,1,,2024-01-10T00:00:00Z,Specialized,
-frame,SPECIALIZED,,road,856100,2,4,,2024-01-10T00:00:00Z,Specialized,
-frame,SPECIALIZED,,road,802300,2,4,,2024-01-10T00:00:00Z,Specialized,
-frame,SPECIALIZED,,road,730400,2,3,,2024-01-10T00:00:00Z,Specialized,
-frame,SPECIALIZED,,tt,643800,4,1,,2024-01-10T00:00:00Z,Specialized,
-frame,SPECIALIZED,,road,405200,2,3,,2024-01-10T00:00:00Z,Specialized,
-frame,SPECIALIZED,,road,387000,3,3,,2024-01-10T00:00:00Z,Specialized,
-frame,SPECIALIZED,,road,333500,2,3,,2024-01-10T00:00:00Z,Specialized,
-frame,SPECIALIZED,,road,333500,2,3,,2024-01-10T00:00:00Z,Specialized,
-frame,SPECIALIZED,,road,300000,2,2,,2024-01-10T00:00:00Z,Specialized,
-frame,SPECIALIZED,,road,122700,2,2,,2024-01-10T00:00:00Z,Specialized,
-frame,SPECIALIZED,,gravel,950000,2,3,,2024-01-10T00:00:00Z,Specialized,
-frame,SPECIALIZED,,road,786300,2,4,,2024-01-10T00:00:00Z,Specialized,
-frame,SPECIALIZED,,road,1200000,3,3,,2024-01-10T00:00:00Z,Specialized,
-frame,TREK,,road,1050000,3,3,,2024-01-10T00:00:00Z,Trek,
-frame,TREK,,mtb,750000,1,1,,2024-01-10T00:00:00Z,Trek,
-frame,TREK,,tt,670500,4,1,,2024-01-10T00:00:00Z,Trek,
-frame,TREK,,road,560300,2,3,,2024-01-10T00:00:00Z,Trek,
-frame,TREK,,road,0,2,4,,2024-01-10T00:00:00Z,Trek,
-frame,URANIUM,,road,700000,3,3,,2024-01-10T00:00:00Z,Uranium,
-frame,VANRYSEL,,road,144100,2,3,,2024-01-10T00:00:00Z,Van Rysel,
-frame,VENTUM,,road,750000,3,3,,2024-01-10T00:00:00Z,Ventum,
-frame,VENTUM,,tt,440800,4,1,,2024-01-10T00:00:00Z,Ventum,
-frame,ZWIFT,,special,3550000,2,2,,2024-01-10T00:00:00Z,Zwift,
-frame,ZWIFT,,road,250000,3,3,,2024-01-10T00:00:00Z,Zwift,
-frame,ZWIFT,,special,9500,1,1,,2024-01-10T00:00:00Z,Zwift,
-frame,ZWIFT,,special,0,3,3,,2024-01-10T00:00:00Z,Zwift,
-frame,ZWIFT,,road,55000,2,3,,2024-01-10T00:00:00Z,Zwift,
-frame,ZWIFT,,gravel,50000,2,2,,2024-01-10T00:00:00Z,Zwift,
-frame,ZWIFT,,special,0,4,1,,2024-01-10T00:00:00Z,Zwift,
-frame,ZWIFT,,mtb,50000,1,1,,2024-01-10T00:00:00Z,Zwift,
-frame,ZWIFT,,road,0,1,2,,2024-01-10T00:00:00Z,Zwift,
-frame,ZWIFT,,tt,60000,4,1,,2024-01-10T00:00:00Z,Zwift,
-wheel,BONTRAGER,,road,67700,3,3,,2024-01-10T00:00:00Z,Bontrager,
-wheel,CADEX,,road,223900,4,3,,2024-01-10T00:00:00Z,CADEX,
-wheel,CADEX,,road,216900,3,4,,2024-01-10T00:00:00Z,CADEX,
-wheel,CADEX,,road,119500,3,3,,2024-01-10T00:00:00Z,CADEX,
-wheel,CADEX,,gravel,154500,3,1,,2024-01-10T00:00:00Z,CADEX,
-wheel,CAMPAGNOLO,,road,250000,2,4,,2024-01-10T00:00:00Z,Campagnolo,
-wheel,CAMPAGNOLO,,road,150000,3,3,,2024-01-10T00:00:00Z,Campagnolo,
-wheel,DTSWISS,,road,400000,4,3,,2024-01-10T00:00:00Z,DT Swiss,
-wheel,DTSWISS,,road,655600,4,1,,2024-01-10T00:00:00Z,DT Swiss,
-wheel,ENVE,,road,278900,4,2,,2024-01-10T00:00:00Z,ENVE,
-wheel,ENVE,,road,200000,3,4,,2024-01-10T00:00:00Z,ENVE,
-wheel,ENVE,,road,174300,2,4,,2024-01-10T00:00:00Z,ENVE,
-wheel,ENVE,,road,150000,3,2,,2024-01-10T00:00:00Z,ENVE,
-wheel,ENVE,,road,250000,4,1,,2024-01-10T00:00:00Z,ENVE,
-wheel,ENVE,,gravel,241800,3,1,,2024-01-10T00:00:00Z,ENVE,
-wheel,FFWD,,road,136100,3,3,,2024-01-10T00:00:00Z,FFWD,
-wheel,GIANT,,road,165100,4,3,,2024-01-10T00:00:00Z,Giant,
-wheel,HED,,road,227200,3,3,,2024-01-10T00:00:00Z,HED,
-wheel,LIGHTWEIGHT,,road,0,3,4,,2024-01-10T00:00:00Z,Lightweight,
-wheel,MAVIC,,road,45400,3,1,,2024-01-10T00:00:00Z,Mavic,
-wheel,MAVIC,,road,39800,3,1,,2024-01-10T00:00:00Z,Mavic,
-wheel,MAVIC,,road,38400,3,1,,2024-01-10T00:00:00Z,Mavic,
-wheel,NOVATEC,,road,37900,3,2,,2024-01-10T00:00:00Z,Novatec,
-wheel,RESERVE,,gravel,83900,3,1,,2024-01-10T00:00:00Z,Reserve,
-wheel,ROVAL,,road,634300,3,4,,2024-01-10T00:00:00Z,Roval,
-wheel,ROVAL,,gravel,330800,3,1,,2024-01-10T00:00:00Z,Roval,
-wheel,ROVAL,,road,200000,3,3,,2024-01-10T00:00:00Z,Roval,
-wheel,ROVAL,,road,150000,3,2,,2024-01-10T00:00:00Z,Roval,
-wheel,SHIMANO,,road,35900,3,2,,2024-01-10T00:00:00Z,Shimano,
-wheel,SHIMANO,,road,34600,3,1,,2024-01-10T00:00:00Z,Shimano,
-wheel,SHIMANO,,road,34600,3,1,,2024-01-10T00:00:00Z,Shimano,
-wheel,ZIPP,,road,550000,4,1,,2024-01-10T00:00:00Z,ZIPP,
-wheel,ZIPP,,road,300000,4,1,,2024-01-10T00:00:00Z,ZIPP,
-wheel,ZIPP,,road,168800,3,3,,2024-01-10T00:00:00Z,ZIPP,
-wheel,ZIPP,,road,135200,3,4,,2024-01-10T00:00:00Z,ZIPP,
-wheel,ZIPP,,road,115600,3,2,,2024-01-10T00:00:00Z,ZIPP,
-wheel,ZIPP,,road,204300,4,3,,2024-01-10T00:00:00Z,ZIPP,
-wheel,ZIPP,,road,200000,4,1,,2024-01-10T00:00:00Z,ZIPP,
-wheel,ZIPP,,road,450000,4,1,,2024-01-10T00:00:00Z,ZIPP,
-wheel,ZWIFT,,road,43700,3,2,,2024-01-10T00:00:00Z,Zwift,
-wheel,ZWIFT,,road,32000,2,2,,2024-01-10T00:00:00Z,Zwift,
-wheel,ZWIFT,,road,0,1,1,,2024-01-10T00:00:00Z,Zwift,
-wheel,ZWIFT,,gravel,0,3,1,,2024-01-10T00:00:00Z,Zwift,
-wheel,ZWIFT,,mtb,0,1,1,,2024-01-10T00:00:00Z,Zwift,
+frame,ALLIED,Allied Able,gravel,721000,2,3,NA,2024-01-10,Allied,Allied Able
+frame,BMC,BMC TeamMachine,road,969200,3,3,NA,2024-01-10,BMC,BMC TeamMachine
+frame,BMC,SLR01,road,759500,2,3,NA,2024-01-10,BMC,SLR01
+frame,BMC,Timemachine01,tt,400000,4,1,NA,2024-01-10,BMC,Timemachine01
+frame,BMC,Roadmachine,road,344100,2,3,NA,2024-01-10,BMC,Roadmachine
+frame,BRIDGESTONE,Anchor RS9s,road,200000,2,4,NA,2024-01-10,Bridgestone,Anchor RS9s
+frame,CADEX,Cadex Tri,tt,1500000,4,1,40,2024-01-10,CADEX,Cadex Tri
+frame,CANNONDALE,Super Six Evo,road,768200,3,4,NA,2024-01-10,Cannondale,Super Six Evo
+frame,CANNONDALE,System Six,road,725100,3,3,NA,2024-01-10,Cannondale,System Six
+frame,CANNONDALE,Synapse,road,270100,2,3,NA,2024-01-10,Cannondale,Synapse
+frame,CANNONDALE,CAAD12,road,106300,2,2,NA,2024-01-10,Cannondale,CAAD12
+frame,CANNONDALE,EVO,road,714500,2,4,NA,2024-01-10,Cannondale,EVO
+frame,CANYON,Aeroad 2021,road,1029200,3,3,NA,2024-01-10,Canyon,Aeroad 2021
+frame,CANYON,Grail,gravel,750000,2,3,NA,2024-01-10,Canyon,Grail
+frame,CANYON,Speedmax,tt,424600,4,1,NA,2024-01-10,Canyon,Speedmax
+frame,CANYON,Ultimate CFR,road,350700,2,4,NA,2024-01-10,Canyon,Ultimate CFR
+frame,CANYON,Ultimate,road,322500,2,4,NA,2024-01-10,Canyon,Ultimate
+frame,CANYON,Lux,mtb,275000,1,1,NA,2024-01-10,Canyon,Lux
+frame,CANYON,Inflite,gravel,200000,2,2,NA,2024-01-10,Canyon,Inflite
+frame,CANYON,Speedmax CF SLX Disc,tt,1200000,4,1,NA,2024-01-10,Canyon,Speedmax CF SLX Disc
+frame,CERVELO,S5 2020,road,1481000,3,3,NA,2024-01-10,Cervelo,S5 2020
+frame,CERVELO,PX-Series,tt,1000000,4,1,NA,2024-01-10,Cervelo,PX-Series
+frame,CERVELO,Aspero,gravel,800000,3,3,NA,2024-01-10,Cervelo,Aspero
+frame,CERVELO,R5,road,633600,2,4,NA,2024-01-10,Cervelo,R5
+frame,CERVELO,S3D,road,415300,3,2,NA,2024-01-10,Cervelo,S3D
+frame,CERVELO,P5,tt,920700,4,1,NA,2024-01-10,Cervelo,P5
+frame,CERVELO,S5 2020,road,1481000,3,3,NA,2024-01-10,Cervelo,S5 2020
+frame,CHAPTER2,Chapter2 TOA,road,800000,3,3,NA,2024-01-10,Chapter2,Chapter2 TOA
+frame,CHAPTER2,CHAPTER2 KOKO,road,505500,2,3,NA,2024-01-10,Chapter2,CHAPTER2 KOKO
+frame,CHAPTER2,Rere,road,326400,3,3,NA,2024-01-10,Chapter2,Rere
+frame,CHAPTER2,Tere,road,199400,2,4,NA,2024-01-10,Chapter2,Tere
+frame,COLNAGO,Colnago V3RS,road,800000,2,3,NA,2024-01-10,Colnago,Colnago V3RS
+frame,CUBE,Cube Litening C:68X,road,604200,2,4,NA,2024-01-10,Cube,Cube Litening C:68X
+frame,CUBE,Cube Litening,road,536500,2,3,NA,2024-01-10,Cube,Cube Litening
+frame,CUBE,Aerium,tt,251700,4,1,NA,2024-01-10,Cube,Aerium
+frame,DIAMONDBACK,Andean,tt,950000,4,1,NA,2024-01-10,Diamondback,Andean
+frame,FACTOR,One,road,600000,3,3,NA,2024-01-10,Factor,One
+frame,FELT,Felt IA 2.0,tt,750000,4,1,NA,2024-01-10,Felt,Felt IA 2.0
+frame,FELT,AR,road,714100,3,3,NA,2024-01-10,Felt,AR
+frame,FELT,Felt FR,road,562700,3,4,NA,2024-01-10,Felt,Felt FR
+frame,FELT,IA,tt,515100,4,1,NA,2024-01-10,Felt,IA
+frame,FOCUS,Focus Izalco Max,road,712900,3,3,NA,2024-01-10,Focus,Focus Izalco Max
+frame,GIANT,Propel Advanced SL Disc,road,1102900,3,3,NA,2024-01-10,Giant,Propel Advanced SL Disc
+frame,GIANT,TCR Advanced SL,road,566100,2,3,NA,2024-01-10,Giant,TCR Advanced SL
+frame,GIANT,Giant TCR BikeExchange-Jayco Team,road,543100,3,3,NA,2024-01-10,Giant,Giant TCR BikeExchange-Jayco Team
+frame,GIANT,Revolt Advanced Pro,road,475000,2,3,NA,2024-01-10,Giant,Revolt Advanced Pro
+frame,LAUF,Lauf True Grit Bike,gravel,125000,2,2,NA,2024-01-10,Lauf,Lauf True Grit Bike
+frame,LIV,Langma Advanced SL Disc,road,613200,3,3,NA,2024-01-10,Liv,Langma Advanced SL Disc
+frame,LIV,Langma Advanced SL,road,511300,2,3,NA,2024-01-10,Liv,Langma Advanced SL
+frame,LIV,Devote Advanced Pro,gravel,450000,2,3,NA,2024-01-10,Liv,Devote Advanced Pro
+frame,MOOTS,Vamoots RCS,road,275000,2,2,NA,2024-01-10,Moots,Vamoots RCS
+frame,MOSAIC,Mosaic RT-1d,road,250000,2,2,NA,2024-01-10,Mosaic,Mosaic RT-1d
+frame,PARLEE,RZ7,road,771800,3,3,NA,2024-01-10,Parlee,RZ7
+frame,PARLEE,ESX,road,153200,3,3,NA,2024-01-10,Parlee,ESX
+frame,PINARELLO,Dogma F,road,1418600,3,4,NA,2024-01-10,Pinarello,Dogma F
+frame,PINARELLO,Dogma F12,road,1242700,3,3,NA,2024-01-10,Pinarello,Dogma F12
+frame,PINARELLO,Dogma F10,road,1081900,3,3,NA,2024-01-10,Pinarello,Dogma F10
+frame,PINARELLO,Bolide TT,tt,627000,4,1,NA,2024-01-10,Pinarello,Bolide TT
+frame,PINARELLO,Bolide,tt,618400,4,1,NA,2024-01-10,Pinarello,Bolide
+frame,PINARELLO,Dogma 65.1,road,577800,3,2,NA,2024-01-10,Pinarello,Dogma 65.1
+frame,PINARELLO,F8,road,0,3,3,NA,2024-01-10,Pinarello,F8
+frame,QUINTANAROO,Quintana Roo V-PR,tt,297400,4,1,NA,2024-01-10,Quintana Roo,Quintana Roo V-PR
+frame,RIBBLE,Endurance,road,505500,3,3,NA,2024-01-10,Ribble,Endurance
+frame,RIDLEY,Noah Fast 2019,road,950000,3,3,NA,2024-01-10,Ridley,Noah Fast 2019
+frame,RIDLEY,Helium,road,272500,2,3,NA,2024-01-10,Ridley,Helium
+frame,SCOTT,SCOTT Foil 2023,road,864600,3,3,NA,2024-01-10,Scott,SCOTT Foil 2023
+frame,SCOTT,Spark RC World Cup,mtb,750000,1,1,NA,2024-01-10,Scott,Spark RC World Cup
+frame,SCOTT,Foil,road,676900,3,3,NA,2024-01-10,Scott,Foil
+frame,SCOTT,Plasma RC Ultimate,tt,600000,4,1,NA,2024-01-10,Scott,Plasma RC Ultimate
+frame,SCOTT,Plasma,tt,528600,4,1,NA,2024-01-10,Scott,Plasma
+frame,SCOTT,Addict RC,road,660200,3,4,NA,2024-01-10,Scott,Addict RC
+frame,SCOTT,Spark RC,mtb,350000,1,1,NA,2024-01-10,Scott,Spark RC
+frame,SPECIALIZED,Tarmac SL7,road,1200000,3,3,NA,2024-01-10,Specialized,Tarmac SL7
+frame,SPECIALIZED,Shiv Disc,tt,1000000,4,1,NA,2024-01-10,Specialized,Shiv Disc
+frame,SPECIALIZED,Aethos S-Works,road,966300,2,4,NA,2024-01-10,Specialized,Aethos S-Works
+frame,SPECIALIZED,Epic S-Works,mtb,950000,1,1,NA,2024-01-10,Specialized,Epic S-Works
+frame,SPECIALIZED,Shiv S-Works,tt,910600,4,1,NA,2024-01-10,Specialized,Shiv S-Works
+frame,SPECIALIZED,Tarmac Pro,road,856100,2,4,NA,2024-01-10,Specialized,Tarmac Pro
+frame,SPECIALIZED,Amira S-Works,road,802300,2,4,NA,2024-01-10,Specialized,Amira S-Works
+frame,SPECIALIZED,Amira,road,730400,2,3,NA,2024-01-10,Specialized,Amira
+frame,SPECIALIZED,Shiv,tt,643800,4,1,NA,2024-01-10,Specialized,Shiv
+frame,SPECIALIZED,Roubaix S-Works,road,405200,2,3,NA,2024-01-10,Specialized,Roubaix S-Works
+frame,SPECIALIZED,Allez Sprint,road,387000,3,3,NA,2024-01-10,Specialized,Allez Sprint
+frame,SPECIALIZED,Roubaix,road,333500,2,3,NA,2024-01-10,Specialized,Roubaix
+frame,SPECIALIZED,Ruby,road,333500,2,3,NA,2024-01-10,Specialized,Ruby
+frame,SPECIALIZED,Specialized Diverge,road,300000,2,2,NA,2024-01-10,Specialized,Specialized Diverge
+frame,SPECIALIZED,Allez,road,122700,2,2,NA,2024-01-10,Specialized,Allez
+frame,SPECIALIZED,Crux,gravel,950000,2,3,NA,2024-01-10,Specialized,Crux
+frame,SPECIALIZED,Tarmac,road,786300,2,4,NA,2024-01-10,Specialized,Tarmac
+frame,SPECIALIZED,Venge S-Works,road,1200000,3,3,NA,2024-01-10,Specialized,Venge S-Works
+frame,TREK,Madone,road,1050000,3,3,NA,2024-01-10,Trek,Madone
+frame,TREK,Super Caliber,mtb,750000,1,1,NA,2024-01-10,Trek,Super Caliber
+frame,TREK,Speed Concept SLR 9,tt,670500,4,1,NA,2024-01-10,Trek,Speed Concept SLR 9
+frame,TREK,Emonda SL,road,560300,2,3,NA,2024-01-10,Trek,Emonda SL
+frame,TREK,Emonda,road,0,2,4,NA,2024-01-10,Trek,Emonda
+frame,URANIUM,Nuclear,road,700000,3,3,NA,2024-01-10,Uranium,Nuclear
+frame,VANRYSEL,EDR CF,road,144100,2,3,NA,2024-01-10,Van Rysel,EDR CF
+frame,VENTUM,Ventum NS1,road,750000,3,3,NA,2024-01-10,Ventum,Ventum NS1
+frame,VENTUM,One,tt,440800,4,1,NA,2024-01-10,Ventum,One
+frame,ZWIFT,Safety,special,3550000,2,2,44,2024-01-10,Zwift,Safety
+frame,ZWIFT,Aero,road,250000,3,3,NA,2024-01-10,Zwift,Aero
+frame,ZWIFT,Buffalo Fahrrad,special,9500,1,1,NA,2024-01-10,Zwift,Buffalo Fahrrad
+frame,ZWIFT,Concept Z1,special,0,3,3,NA,2024-01-10,Zwift,Concept Z1
+frame,ZWIFT,Carbon,road,55000,2,3,NA,2024-01-10,Zwift,Carbon
+frame,ZWIFT,Gravel,gravel,50000,2,2,NA,2024-01-10,Zwift,Gravel
+frame,ZWIFT,Handcycle,special,0,4,1,NA,2024-01-10,Zwift,Handcycle
+frame,ZWIFT,Mountain,mtb,50000,1,1,NA,2024-01-10,Zwift,Mountain
+frame,ZWIFT,Steel,road,0,1,2,NA,2024-01-10,Zwift,Steel
+frame,ZWIFT,TT,tt,60000,4,1,NA,2024-01-10,Zwift,TT
+wheel,BONTRAGER,Aeolus5,road,67700,3,3,11,2024-01-10,Bontrager,Aeolus5
+wheel,CADEX,Cadex 65,road,223900,4,3,33,2024-01-10,CADEX,Cadex 65
+wheel,CADEX,36,road,216900,3,4,29,2024-01-10,CADEX,36
+wheel,CADEX,Cadex 42,road,119500,3,3,17,2024-01-10,CADEX,Cadex 42
+wheel,CADEX,CADEX AR 35,gravel,154500,3,1,14,2024-01-10,CADEX,CADEX AR 35
+wheel,CAMPAGNOLO,Bora Ultra 35,road,250000,2,4,35,2024-01-10,Campagnolo,Bora Ultra 35
+wheel,CAMPAGNOLO,Bora Ultra 50,road,150000,3,3,12,2024-01-10,Campagnolo,Bora Ultra 50
+wheel,DTSWISS,ARC 1100 DICUT 62,road,400000,4,3,40,2024-01-10,DT Swiss,ARC 1100 DICUT 62
+wheel,DTSWISS,ARC 1100 DICUT DISC,road,655600,4,1,39,2024-01-10,DT Swiss,ARC 1100 DICUT DISC
+wheel,ENVE,SES 7.8,road,278900,4,2,36,2024-01-10,ENVE,SES 7.8
+wheel,ENVE,SES 3.4,road,200000,3,4,27,2024-01-10,ENVE,SES 3.4
+wheel,ENVE,SES 2.2,road,174300,2,4,26,2024-01-10,ENVE,SES 2.2
+wheel,ENVE,SES 6.7,road,150000,3,2,22,2024-01-10,ENVE,SES 6.7
+wheel,ENVE,SES 8.9,road,250000,4,1,28,2024-01-10,ENVE,SES 8.9
+wheel,ENVE,G23,gravel,241800,3,1,23,2024-01-10,ENVE,G23
+wheel,FFWD,RYOT55,road,136100,3,3,18,2024-01-10,FFWD,RYOT55
+wheel,GIANT,SLR 0,road,165100,4,3,21,2024-01-10,Giant,SLR 0
+wheel,HED,HED Vanquish RC6 Pro,road,227200,3,3,17,2024-01-10,HED,HED Vanquish RC6 Pro
+wheel,LIGHTWEIGHT,Lightweight Meilenstein,road,0,3,4,NA,2024-01-10,Lightweight,Lightweight Meilenstein
+wheel,MAVIC,Comete Pro Carbon SL UST,road,45400,3,1,13,2024-01-10,Mavic,Comete Pro Carbon SL UST
+wheel,MAVIC,Cosmic CXR60c,road,39800,3,1,7,2024-01-10,Mavic,Cosmic CXR60c
+wheel,MAVIC,Cosmic Ultimate UST,road,38400,3,1,6,2024-01-10,Mavic,Cosmic Ultimate UST
+wheel,NOVATEC,Novatec R4,road,37900,3,2,8,2024-01-10,Novatec,Novatec R4
+wheel,RESERVE,Reserve 25 GR,gravel,83900,3,1,5,2024-01-10,Reserve,Reserve 25 GR
+wheel,ROVAL,Alpinist CLX,road,634300,3,4,38,2024-01-10,Roval,Alpinist CLX
+wheel,ROVAL,Terra CLX,gravel,330800,3,1,32,2024-01-10,Roval,Terra CLX
+wheel,ROVAL,Rapide CLX,road,200000,3,3,15,2024-01-10,Roval,Rapide CLX
+wheel,ROVAL,CLX64,road,150000,3,2,16,2024-01-10,Roval,CLX64
+wheel,SHIMANO,C40,road,35900,3,2,4,2024-01-10,Shimano,C40
+wheel,SHIMANO,NA,road,34600,3,1,4,2024-01-10,Shimano,NA
+wheel,SHIMANO,C60,road,34600,3,1,10,2024-01-10,Shimano,C60
+wheel,ZIPP,858/Super9,road,550000,4,1,37,2024-01-10,ZIPP,858/Super9
+wheel,ZIPP,858,road,300000,4,1,31,2024-01-10,ZIPP,858
+wheel,ZIPP,353 NSW,road,168800,3,3,24,2024-01-10,ZIPP,353 NSW
+wheel,ZIPP,202,road,135200,3,4,20,2024-01-10,ZIPP,202
+wheel,ZIPP,404,road,115600,3,2,19,2024-01-10,ZIPP,404
+wheel,ZIPP,454,road,204300,4,3,30,2024-01-10,ZIPP,454
+wheel,ZIPP,808,road,200000,4,1,25,2024-01-10,ZIPP,808
+wheel,ZIPP,808/Super9,road,450000,4,1,34,2024-01-10,ZIPP,808/Super9
+wheel,ZWIFT,50mm Carbon,road,43700,3,2,9,2024-01-10,Zwift,50mm Carbon
+wheel,ZWIFT,32mm Carbon,road,32000,2,2,3,2024-01-10,Zwift,32mm Carbon
+wheel,ZWIFT,Classic,road,0,1,1,1,2024-01-10,Zwift,Classic
+wheel,ZWIFT,Gravel,gravel,0,3,1,1,2024-01-10,Zwift,Gravel
+wheel,ZWIFT,Mountain,mtb,0,1,1,1,2024-01-10,Zwift,Mountain
