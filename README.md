@@ -2,6 +2,6 @@
 
 This directory contains material related to Zwift such as dropshop data, speed testing data, associated code, figures and other outputs.
 
-### Speed testing
+### Speed Testing 
 
-I am currently performing a number of speed tests using a bot rider. Information about the tests can be found in data/test_log.csv while results for segments can be found in data/r_out_segment_results.csv.
+Speed tests are performed to test different equipment (frames and wheels from the in game dropshop), rider profiles (height, weight) and ride parameters (power, cadence etc.). Data is uploaded from Zwift to Strava. Tests are logged in `data/test_log.csv` with the id coming from the strava activity url. A python script (`get_segment_times.py`) collects the segment times for the activities logged in `data/test_log.csv` and outputs them to `data/segment_times.csv`.
