@@ -1,3 +1,3 @@
-strava_id,date,zwift_version,world,route,frame,wheels,weight,height,watts,cadence
+activity,date,zwift_version,world,route,frame,wheels,weight,height,watts,cadence
 10561972980,2024-01-15T00:00:00Z,NA,Watopia,Ocean Lava Cliffside Loop,Zwift Aero,Zwift 32mm Carbon,75,183,200,85
 10574620699,2024-01-17T00:00:00Z,NA,Watopia,Ocean Lava Cliffside Loop,Tron,Tron,75,183,200,85

@@ -40,7 +40,7 @@ header = {'Authorization': 'Bearer ' + access_token}
 param = {'per_page': 200, 'page': 1}
 
 test_log = pd.read_csv('data/test_log.csv')
-focal_activities = list(test_log['strava_id'])
+focal_activities = list(test_log['activity'])
 
 segment_times = pd.DataFrame({'activity':[], 'segment':[], 'time':[]})
 
