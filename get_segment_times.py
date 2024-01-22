@@ -31,6 +31,7 @@ payload = {
 }
 
 # Get Access Token ============================================================
+print('Requesting Access Token...')
 res = requests.post(auth_url, data=payload, verify=False)
 access_token = res.json()['access_token']
 
@@ -42,12 +43,16 @@ param = {'per_page': 200, 'page': 1}
 test_log = pd.read_csv('data/test_log.csv')
 focal_activities = list(test_log['activity'])
 
-segment_times = pd.DataFrame({'activity':[], 'segment':[], 'time':[]})
+segment_times = pd.DataFrame({'activity':[], 'segment':[], 'time':[], 'distance':[]})
 
+n_activities = len(test_log.index)
+request_count = 0
 for activity in focal_activities:
+    request_count += 1
+    print(f'Requesting activity {request_count} of {n_activities} (#{activity})')
     activity_data = requests.get(f'https://www.strava.com/api/v3/activities/{activity}', headers=header, params=param).json()
     segment_data = activity_data['segment_efforts']
     for segment in segment_data:
-        segment_times.loc[len(segment_times.index)] = [activity, segment['name'],segment['elapsed_time']]
-
+        segment_times.loc[len(segment_times.index)] = [activity, segment['name'], segment['elapsed_time'], segment['distance']]
+    
 segment_times.to_csv('data/segment_times.csv', index=False)
