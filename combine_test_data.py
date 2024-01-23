@@ -9,4 +9,7 @@ main['ms'] = main['distance'] / main['time']
 
 main['kmh'] = 3600 * main['ms'] / 1000
 
-print(main.groupby(['frame', 'wheels', 'watts', 'weight', 'height', 'cadence', 'segment']).mean(['kmh', 'time']))
+segment_means = main.groupby(['frame', 'wheels', 'watts', 'weight', 'height', 'cadence', 'world', 'segment']).mean(['kmh']).reset_index().drop(columns=['activity', 'zwift_version', 'distance', 'ms'])
+
+segment_means.to_csv('data/test_times.csv')
+
