@@ -1,9 +1,9 @@
-,frame,wheels,watts,weight,height,cadence,world,segment,time,kmh
-0,Tron,Tron,200,75,183,85,Watopia,Dirty Sorpresa Climb (Zwift Insider verified),89.66666666666667,23.11023220973783
-1,Tron,Tron,200,75,183,85,Watopia,Epic KOM Bypass - Eastbound ,285.0,30.704842105263165
-2,Tron,Tron,200,75,183,85,Watopia,Epic KOM Reverse - Start to Jungle Intersection ,300.0,14.1576
-3,Tron,Tron,200,75,183,85,Watopia,Ocean Lava Cliffside Loop,2141.0,31.986366165318355
-4,Zwift Aero,Zwift 32mm Carbon,200,75,183,85,Watopia,Dirty Sorpresa Climb (Zwift Insider verified),92.0,22.523478260869567
-5,Zwift Aero,Zwift 32mm Carbon,200,75,183,85,Watopia,Epic KOM Bypass - Eastbound ,290.0,30.17544827586207
-6,Zwift Aero,Zwift 32mm Carbon,200,75,183,85,Watopia,Epic KOM Reverse - Start to Jungle Intersection ,303.0,14.017425742574256
-7,Zwift Aero,Zwift 32mm Carbon,200,75,183,85,Watopia,Ocean Lava Cliffside Loop,2178.0,31.442975206611568
+,frame,wheels,watts,weight,height,cadence,world,segment,activity,time,kmh
+0,Tron,Tron,200,75,183,85,Watopia,Dirty Sorpresa Climb (Zwift Insider verified),10574620699.0,89.66666666666667,23.11023220973783
+1,Tron,Tron,200,75,183,85,Watopia,Epic KOM Bypass - Eastbound ,10574620699.0,285.0,30.704842105263165
+2,Tron,Tron,200,75,183,85,Watopia,Epic KOM Reverse - Start to Jungle Intersection ,10574620699.0,300.0,14.1576
+3,Tron,Tron,200,75,183,85,Watopia,Ocean Lava Cliffside Loop,10574620699.0,2141.0,31.986366165318355
+4,Zwift Aero,Zwift 32mm Carbon,200,75,183,85,Watopia,Dirty Sorpresa Climb (Zwift Insider verified),10561972980.0,92.0,22.523478260869567
+5,Zwift Aero,Zwift 32mm Carbon,200,75,183,85,Watopia,Epic KOM Bypass - Eastbound ,10561972980.0,290.0,30.17544827586207
+6,Zwift Aero,Zwift 32mm Carbon,200,75,183,85,Watopia,Epic KOM Reverse - Start to Jungle Intersection ,10561972980.0,303.0,14.017425742574256
+7,Zwift Aero,Zwift 32mm Carbon,200,75,183,85,Watopia,Ocean Lava Cliffside Loop,10561972980.0,2178.0,31.442975206611568
